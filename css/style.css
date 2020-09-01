@@ -1,0 +1,63 @@
+.regsporets_container{
+
+  
+  width: 1200px;
+  
+  text-align: center;
+  float: left;
+  margin-top:0px;
+  margin-left: auto;
+  margin-right: auto;
+  /**/
+  background: #B0C4DE;
+
+}
+.zajavka{
+   text-align: center;
+   margin-left: 0px;
+   margin-right: auto;
+}
+
+.calr{
+
+    background: red;
+    border: 1px;
+   font-size: 120px;
+    
+  } 
+
+.calw{
+
+    background: white;
+    border: 1px;
+   font-size: 120px;
+    
+  } 
+
+.minut{
+  
+  margin-left: 80px;
+  float: left;
+  font-size: 100px;
+}
+.razdelitel{
+  float: left;
+  font-size: 100px;
+}
+.sekund{
+  float: left;
+  font-size: 100px;
+}
+
+.fighter{
+  font-size: 30px;
+}
+
+.fighter1{
+  font-size: 30px;
+}
+table {
+    table-layout: fixed; /* Фиксированная ширина ячеек */
+    width: 100%; /* Ширина таблицы */
+   
+   }
